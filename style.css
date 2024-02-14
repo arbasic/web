@@ -1,0 +1,38 @@
+body{
+    background-color: azure;
+
+}
+
+.username{
+    background-color: bisque;
+    height: 20px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.password{
+    background-color: bisque;
+    height: 20px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btn{
+    height: 45px;
+    width: 150px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: black;
+    color: gold;
+    height: 50px;
+    width: 160px;
+}
+.div{
+    margin: 0 auto;
+    text-align: center;
+}
